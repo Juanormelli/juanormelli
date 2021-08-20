@@ -1,12 +1,12 @@
-<h1>Hello i’m Juan Ormelli, Welcome to my profile</h1>
-
+<h1>Hello i’m Juan Ormelli, Welcome to my profile!</h1>
+<h3>I will become better in my field and study for it every day</h3>
 
 
 🔭 I’m currently working on SDC with SAS infra and Dev  
 🌱 I’m learning about SAS, its environment and its peculiarities, besides being engaged in the study of Node.Js, Typescript and React.Js 
  
  
- I will become better in my field and study for it every day
+ 
  
  <div>
   <a href="https://github.com/rafaballerini">
