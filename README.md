@@ -1,15 +1,14 @@
 ## Hello i’m Juan Ormelli, Welcome to my profile!
 <h3>I will become better in my field and study for it every day</h3>
 
-
+ 
  I’m currently working on SDC with SAS infra and Dev  
  
  
  I’m learning about SAS, its environment and its peculiarities, besides being engaged in the study of Node.Js, Typescript and React.Js 
  
- 
- 
- 
+ ##
+ My goal is to change the world
  <div>
   <a href="https://github.com/Juanormelli">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Juanormelli&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
