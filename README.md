@@ -1,5 +1,5 @@
 ## Hello i’m Juan Ormelli, Welcome to my profile!
-<h3>I will become better in my field and study for it every day</h3>
+
 
  
  I’m currently working on SDC with SAS infra and Dev  
