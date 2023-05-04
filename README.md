@@ -1,7 +1,7 @@
 ## Hello i’m Juan Ormelli, Welcome to my profile!
 
  
- I’m currently working on SDC with SAS infra and Data/Dev
+I currently work as a Technical Consultant in the Infrastructure and Data area with a focus on SAS I work at SDC in partnership with the SAS Brazil PSD Team and as a SAS instructor.
  
  
  
