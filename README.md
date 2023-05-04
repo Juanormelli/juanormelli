@@ -3,7 +3,7 @@
  
 I currently work as a Technical Consultant in the Infrastructure and Data area with a focus on SAS I work at SDC in partnership with the SAS Brazil PSD Team and as a SAS instructor.
  
- 
+ I 3x SAS Cerified and 2x Microsoft Certified.
  
  <div>
   <a href="https://github.com/Juanormelli">
